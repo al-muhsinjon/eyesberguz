@@ -166,7 +166,7 @@ const MainNavbar = () => {
                 {/* ACTION BUTTONS */}
                 <Button
                   className="hover:bg-lupa rounded-md"
-                  href={i === 1 ? "https://google.com/" : undefined}
+                  href={i === 1 ? "/" : undefined}
                   spanClasses={`text-gray flex items-center leading-normal hover:bg-lupa`}
                   px={`px-4`}
                   py={`py-2`}

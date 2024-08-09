@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import logo from "../../assets/svg/logoBig.svg";
-import logoMobile from "../../assets/svg/logoBigMobile.svg";
+import logo from "../../assets/svg/logo.svg";
+import logoMobile from "../../assets/svg/logo.svg";
 import { faBars, faChevronDown, faPlus } from "@fortawesome/free-solid-svg-icons";
 import Rus from "/Russina.svg";
 import { useEffect, useRef, useState } from "react";
