@@ -1,0 +1,15 @@
+.intro-section {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
+		url(../../../assets/introBackImg.jpg);
+	background-color: black;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 430px;
+	margin-top: 40px;
+	display: flex;
+	align-items: center;
+}
+.vacany-item:hover {
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
